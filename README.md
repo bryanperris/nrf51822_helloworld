@@ -9,3 +9,4 @@ Hello world test program for the Nordic NRF51822 BLE ARM chip
 * GNU ARM EABI Toolchain: https://launchpad.net/gcc-arm-embedded/+download
 * GNU ARM Eclipse Build Tools: https://sourceforge.net/projects/gnuarmeclipse/files/Build%20Tools/
 * SEGGER J-Link USB Adapter
+* Note: Don't forget to refresh your packs under the 'pack perspective' so device specs are available
